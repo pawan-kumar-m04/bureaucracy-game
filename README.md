@@ -24,6 +24,8 @@ Lucide React (Icons)
 
 Vercel (Deployment)
 
+## Deployment
+https://bureaucracy-game-drab.vercel.app/
 
 
 
